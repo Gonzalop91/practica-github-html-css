@@ -1,2 +1,3 @@
-# practica-github-html-css
-asdas
+## Instalación
+Para instalar este proyecto, clona el repositorio y navega al directorio:
+
